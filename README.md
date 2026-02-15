@@ -74,3 +74,12 @@ After setting up your integration, we recommend you implement the following feat
     </tr>
 </tbody>
 </table
+
+
+Task lists
+GitHub Flavored Markdown (GFM) supports it.
+Useful for Project list, roadmap, or task reviews.
+- [x] Setup repository
+- [x] Write README
+- [ ] Add documentation
+- [ ] Review pull requests
